@@ -1,2 +1,2 @@
 # java_practice
-this repository all all my java practice
+this repository conntains all my java practice
